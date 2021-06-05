@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+body{
+    margin:0;
+    padding:0;
+    margin-top:0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.half-width{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100%;
+}
+h1{
+   
+
+    font-size:50px;
+}
+h2{
+    font-size:40px;
+}
+h3{
+    font-size: 16px;
+    font-weight: 700;
+}
+p{
+    font-size:13px;
+    color:dimgray;
+}
+.tomato-text{
+    color:#ff8367;
+}
+.wid-25{
+    width:25%;
+    margin-left:3%;
+    padding:2%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+    height:330px;
+    float: left;
+}
+.wid-25 img{
+    width:100%;
+    border-radius: 10px;
+    padding:5px;
+}
+section{
+    height: 500px;
+    padding-bottom : 150px;
+}
+.button{
+    background-color: #F96D61;
+    text-decoration: none;
+    padding: 10px 20px;
+    color:white;
+    border-radius: 10px;
+}
+.latest-img{
+    margin-left:10%;
+}
+.chat{
+    background-image: url("shapes/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size:90%;
+    /* background-position:left; */
+    text-align:center;
+    padding:10px;
+    color:white;
+    margin-left: 70px;
+}
+.middle{
+    margin:auto;
+}
+
